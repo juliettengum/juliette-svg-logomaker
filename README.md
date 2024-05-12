@@ -15,7 +15,9 @@ This Node.js command-line application allows users to generate simple logos in S
 
 ## Walkthrough Video
 
-Provide a link to the video demonstrating the functionality of the application.
+Provide a link to the video demonstrating the functionality of the application.![Watch the video]
+(<video controls src="walkthroughvideo.mp4" title="Title"></video>)
+
 
 ## License
 
