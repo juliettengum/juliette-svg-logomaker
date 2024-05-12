@@ -13,7 +13,9 @@
 - 
 ## Description
 
-This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.(This Node.js command-line application allows users to generate simple logos in SVG format.)
+This is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.
+The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file
+.(This Node.js command-line application allows users to generate simple logos in SVG format.)
 
 ## Installation
 
@@ -25,7 +27,9 @@ This is a Node.js command-line application that takes in user input to generate 
 
 ## Usage
 we use this command-line application to generate simple logos in SVG format.
-To use the application, run `node index.js` from the project directory. You will be prompted to provide various details about your project, such as the color, shape. Based on your input, an SVG logo will be generated
+To use the application, run `node index.js` from the project directory. 
+You will be prompted to provide various details about your project, such as the color, shape. 
+Based on your input, an SVG logo will be generated
 
 
 
@@ -46,11 +50,7 @@ This is a link to the video demonstrating the functionality of the application.
 [linkwalkthroghvideo](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
 [LINK](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
 
-<<<<<<< HEAD
-Provide a link to the video demonstrating the functionality of the application.![Watch the video]
-(<video controls src="walkthroughvideo.mp4" title="Title"></video>)
 
-=======
 ## Acknowledgement
 
 A big thank you to my course instructors Mr.Christopher and Mr.Stevens. Also to my course mates who helped me understand the course better.
@@ -60,7 +60,7 @@ A big thank you to my course instructors Mr.Christopher and Mr.Stevens. Also to 
 
 For questions about this project, please reach out to me at [juliettengum](https://github.com/juliettengum) and juliettengum19@gmail.com.
   
->>>>>>> 757987e4a7b94ac26498301970176c51193ca741
+
 
 ## License
 
