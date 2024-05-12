@@ -44,6 +44,7 @@ steps:1. Fork the repository.
 ## Walkthrough Video
 This is a link to the video demonstrating the functionality of the application.
 [linkwalkthroghvideo](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
+[LINK](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
 
 <<<<<<< HEAD
 Provide a link to the video demonstrating the functionality of the application.![Watch the video]
