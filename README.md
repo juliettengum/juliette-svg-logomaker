@@ -14,6 +14,7 @@ This Node.js command-line application allows users to generate simple logos in S
 ![screenshot](Screenshot.png)
 
 ## Walkthrough Video
+[linkwalkthroghvideo](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
 
 Provide a link to the video demonstrating the functionality of the application.
 
