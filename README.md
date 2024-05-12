@@ -38,19 +38,19 @@ steps:1. Fork the repository.
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-##Screenshot
+## Screenshot
 ![screenshot](Screenshot.png)
 
 ## Walkthrough Video
 This is a link to the video demonstrating the functionality of the application.
 [linkwalkthroghvideo](https://github.com/juliettengum/juliette-svg-logomaker/raw/main/walkthroughvideo.mp4)
 
-##Acknowledgement
+## Acknowledgement
 
 A big thank you to my course instructors Mr.Christopher and Mr.Stevens. Also to my course mates who helped me understand the course better.
 
 
-##Questions
+## Questions
 
 For questions about this project, please reach out to me at [juliettengum](https://github.com/juliettengum) and juliettengum19@gmail.com.
   
